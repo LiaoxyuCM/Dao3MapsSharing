@@ -1,14 +1,30 @@
-## News
-I've left Box3,
-it may be a long time.
+嘿。
 
-If you still see LiaoxyuCM is online in Box3,
-sorry that is not me.
+在正式删号跑路之前，我决定把我之前所有岛3项目的脚本代码全部开源到GitHub
 
-This program has already stopped updating.
+## 进展怎么样
 
-> [My Box3 profile](https://dao3.fun/profile/50436218)
+还有点困难，我觉得明天能搞好
 
-> ./jumpCubes/index.js has copied from [here](https://dao3.fun/exp/experience/detail/100266568)
+## 为什么决定删号跑路？
 
-> Enjoy it at dao3!
+很不幸，岛3官方的“三·九事件”严重限流了岛民的创作和游玩，导致一批批的岛民决定退岛。
+
+以下内容摘自官方公告人们的评论
+
+> 既然限制创作时间，那神岛作为”创作平台“的意义何在。
+
+> 压死岛民的最后一条公告
+
+> 那创作也没多大意义了，不会有多少人去玩
+
+> 创作，无人玩，退岛，无人创作，玩家退岛
+
+> 行了，退吧。神岛如果这样就没什么可留恋的了。
+> 
+> 但是你们却决定“限流”。这也许是一个错误的选择。因为限流虽然可以让玩家在指定时间游玩，但游玩时也会怀着怨恨与抱怨的心情。最后也会带着不满离开神岛。
+> 你们大概率选择了一个错误的方式
+
+> 那这个平台的意义呢？
+
+>不能创作就不会有新地图，没有地图人流量就会大幅减少，甚至大幅人员退岛
